@@ -1,3 +1,10 @@
+### Interactive GAM: An interactive and interpretable generalized additive model tool for electric load forecasting
+
+Interactive generalized additive model (GAM) is an interpretable method which can incorporate specific domain knowledge in electric power industry for improved performance. Our method leverages piecewise linear functions and is optimized based on boosting framework. By utilizing the special structure of hinge functions and the boosting framework, our algorithm learns the interactive GAM model efficiently. Our interactive GAM outperforms current state-of-the-art GAMs and demonstrates good generalization ability in the cases of extreme weather events. To help the end users to use the model more easily, a user-friendly web-based tool is developed based on the interactive GAM. 
+![image](https://user-images.githubusercontent.com/8635819/220473522-55fd742e-a3d2-4424-a9d0-63f9fb37d56b.png)
+
+
+
 ### Interactive GAM: An interpretable and editable tool for electric load forecasting
 
 Interactive generalized additive model (GAM) is an interpretable method which can incorporate specific domain knowledge in electric power industry for improved performance. Our method leverages piecewise linear functions and is optimized based on boosting framework. By utilizing the special structure of hinge functions, the interactive GAM can be learned through our efficient algorithm. Our interactive GAM outperforms current state-of-the-art GAMs and demonstrates good generalization ability in the cases of extreme weather events. A user-friendly web-based tool is developed based on interactive GAM. We will upload our codes later.
